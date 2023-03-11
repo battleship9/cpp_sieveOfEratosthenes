@@ -2,4 +2,4 @@
 
 run: `./a.out`
 
-**benchmark**: time `./a.out`
+**benchmark**: `time ./a.out`
